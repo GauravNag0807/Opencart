@@ -1,0 +1,143 @@
+[INFO ] 2023-11-05 19:29:26.554 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 19:29:26.840 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 19:29:27.174 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 19:29:27.265 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 19:29:27.342 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 19:29:27.427 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 19:29:27.502 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 19:29:27.562 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 19:29:27.623 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 19:29:27.789 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 19:29:27.842 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 19:29:30.273 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 19:29:30.306 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 19:43:31.955 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 19:43:32.245 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 19:43:32.617 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 19:43:32.720 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 19:43:32.795 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 19:43:32.881 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 19:43:32.955 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 19:43:33.026 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 19:43:33.087 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 19:43:33.243 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 19:43:33.298 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 19:43:35.758 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 19:43:35.788 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 19:44:33.116 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 19:44:33.395 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 19:44:33.733 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 19:44:33.831 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 19:44:33.912 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 19:44:34.004 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 19:44:34.075 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 19:44:34.131 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 19:44:34.189 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 19:44:34.351 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 19:44:34.409 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 19:44:36.346 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 19:44:36.363 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 19:46:46.146 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 19:46:46.228 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 19:46:46.588 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 19:46:46.697 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 19:46:46.782 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 19:46:46.875 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 19:46:46.947 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 19:46:47.004 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 19:46:47.063 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 19:46:47.224 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 19:46:47.277 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 19:46:48.811 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 19:46:48.821 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 20:05:05.662 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 20:05:05.764 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 20:05:06.169 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 20:05:06.273 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 20:05:06.368 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 20:05:06.465 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 20:05:06.540 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 20:05:06.601 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 20:05:06.662 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 20:05:06.823 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 20:05:06.875 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 20:05:09.465 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 20:05:09.502 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 20:05:44.108 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 20:05:44.192 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 20:05:44.549 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 20:05:44.660 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 20:05:44.742 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 20:05:44.845 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 20:05:44.922 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 20:05:44.983 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 20:05:45.040 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 20:05:45.221 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 20:05:45.270 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 20:05:47.748 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 20:05:47.782 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 20:15:52.422 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 20:15:52.520 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 20:15:52.947 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 20:15:53.034 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 20:15:53.123 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 20:15:53.223 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 20:15:53.300 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 20:15:53.373 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 20:15:53.450 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 20:15:53.609 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 20:15:53.664 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 20:15:56.083 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 20:15:56.115 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 20:22:39.133 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 20:22:39.476 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 20:22:39.868 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 20:22:39.987 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 20:22:40.078 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 20:22:40.174 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 20:22:40.259 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 20:22:40.325 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 20:22:40.395 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 20:22:40.565 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 20:22:40.619 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 20:22:43.133 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 20:22:43.169 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 20:22:46.675 [main] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 20:22:46.761 [main] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 20:22:47.206 [main] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 20:22:47.305 [main] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 20:22:47.416 [main] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 20:22:47.537 [main] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 20:22:47.689 [main] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 20:22:47.769 [main] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 20:22:47.850 [main] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 20:22:48.012 [main] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 20:22:48.068 [main] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 20:22:49.249 [main] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 20:22:49.261 [main] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 20:23:49.223 [TestNG-tests-1] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 20:23:49.664 [TestNG-tests-1] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 20:23:50.360 [TestNG-tests-1] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 20:23:50.497 [TestNG-tests-1] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 20:23:50.580 [TestNG-tests-1] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 20:23:50.679 [TestNG-tests-1] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 20:23:50.776 [TestNG-tests-1] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 20:23:50.862 [TestNG-tests-1] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 20:23:50.923 [TestNG-tests-2] TC_01_AccountRegestration_test -  ***         Starting TC_01_AccountRegestration_test      ***
+[INFO ] 2023-11-05 20:23:50.924 [TestNG-tests-1] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 20:23:50.996 [TestNG-tests-2] TC_01_AccountRegestration_test - Clicked My Account
+[INFO ] 2023-11-05 20:23:51.080 [TestNG-tests-1] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 20:23:51.137 [TestNG-tests-1] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 20:23:51.422 [TestNG-tests-2] TC_01_AccountRegestration_test - Clicked Register
+[INFO ] 2023-11-05 20:23:51.520 [TestNG-tests-2] TC_01_AccountRegestration_test - Added FIRST NAME
+[INFO ] 2023-11-05 20:23:51.609 [TestNG-tests-2] TC_01_AccountRegestration_test - Added LAST NAME
+[INFO ] 2023-11-05 20:23:51.707 [TestNG-tests-2] TC_01_AccountRegestration_test - Added EMAIL
+[INFO ] 2023-11-05 20:23:51.790 [TestNG-tests-2] TC_01_AccountRegestration_test - Added PHONE NUMBER
+[INFO ] 2023-11-05 20:23:51.857 [TestNG-tests-2] TC_01_AccountRegestration_test - Add PASSWORD
+[INFO ] 2023-11-05 20:23:51.920 [TestNG-tests-2] TC_01_AccountRegestration_test - Confirmed same PASSWORD
+[INFO ] 2023-11-05 20:23:52.066 [TestNG-tests-2] TC_01_AccountRegestration_test - Clicked on SUBSCRIBE
+[INFO ] 2023-11-05 20:23:52.121 [TestNG-tests-2] TC_01_AccountRegestration_test - Clicked on AGREE
+[INFO ] 2023-11-05 20:23:53.642 [TestNG-tests-1] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 20:23:53.679 [TestNG-tests-1] TC_01_AccountRegestration_test - Validating MESSAGE
+[INFO ] 2023-11-05 20:23:54.550 [TestNG-tests-2] TC_01_AccountRegestration_test - Clicked on CONTINUE
+[INFO ] 2023-11-05 20:23:54.581 [TestNG-tests-2] TC_01_AccountRegestration_test - Validating MESSAGE
